@@ -1,0 +1,10 @@
+C:\Users\mikes\source\repos\BitCoinCalculator\BitCoinCalculator\bin\Debug\BitCoinCalculator.exe.config
+C:\Users\mikes\source\repos\BitCoinCalculator\BitCoinCalculator\bin\Debug\BitCoinCalculator.exe
+C:\Users\mikes\source\repos\BitCoinCalculator\BitCoinCalculator\bin\Debug\BitCoinCalculator.pdb
+C:\Users\mikes\source\repos\BitCoinCalculator\BitCoinCalculator\obj\Debug\BitCoinCalculator.csprojAssemblyReference.cache
+C:\Users\mikes\source\repos\BitCoinCalculator\BitCoinCalculator\obj\Debug\BitCoinCalculator.Form1.resources
+C:\Users\mikes\source\repos\BitCoinCalculator\BitCoinCalculator\obj\Debug\BitCoinCalculator.Properties.Resources.resources
+C:\Users\mikes\source\repos\BitCoinCalculator\BitCoinCalculator\obj\Debug\BitCoinCalculator.csproj.GenerateResource.cache
+C:\Users\mikes\source\repos\BitCoinCalculator\BitCoinCalculator\obj\Debug\BitCoinCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mikes\source\repos\BitCoinCalculator\BitCoinCalculator\obj\Debug\BitCoinCalculator.exe
+C:\Users\mikes\source\repos\BitCoinCalculator\BitCoinCalculator\obj\Debug\BitCoinCalculator.pdb
